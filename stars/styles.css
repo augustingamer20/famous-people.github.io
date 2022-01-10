@@ -1,7 +1,21 @@
 body{
 	background-color: #89e5b9;
 	font-family: 'Balsamiq Sans', cursive;
+
 }
-h1{
+a.title{
 	text-align: center;
-} 
+
+}
+
+h2{
+	text-align: right;
+}
+h4.time{
+	text-align: left;
+}
+
+p.text{
+
+}
+
